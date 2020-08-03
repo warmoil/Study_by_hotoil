@@ -5,3 +5,5 @@ for i in range(2,10):
             print(" ",end="")
         print(str(i*j),end=" ")
     print()
+
+print(1+4)
